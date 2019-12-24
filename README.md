@@ -1,4 +1,4 @@
-# imageExtractor
+# ImageExtractor
 This script will extract all the images from provided links.
 
 First of all provide the links in links.csv file. 
